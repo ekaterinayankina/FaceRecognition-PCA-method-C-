@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="alglib">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="alglib.inverseupdate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.hqrndstate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibmisc.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.math" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.ablasf" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.alglibobject" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.fbls" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.reflections" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.ablasmkl" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.nearestneighbor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibmisc.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.schur" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.creflections" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.hqrnd" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibmisc.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.bdsvd" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.alglibexception" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.blas" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.sparsematrix" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.ntheory" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.rcond" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.smpselftests" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.safesolve" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.hsschur" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.hpccores" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.rotations" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.ndimensional_pgrad" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Struct Name="alglib.complex" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="alglib.sparse" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.svd" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.nearunityunit" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.ftbase" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.apserv" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.sblas" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.kdtree" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibmisc.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.hblas" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.spdgevd" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.tsort" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.basicstatops" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.serializer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.alglibbasics" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.trlinsolve" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.matdet" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.ndimensional_phess" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="alglib.smp" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.scodes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.matinvreport" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.ablas" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.ndimensional_fvec" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="alglib.xblas" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.integrator1_func" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="alglib.evd" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.linmin" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibinternal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.apobject" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.ndimensional_jac" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="alglib.trfac" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.normestimatorstate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.xdebugrecord1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibmisc.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.ndimensional_ode_rp" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="alglib.matinv" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.normestimator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.rcommstate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.ndimensional_rep" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="alglib.matgen" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.xdebug" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>alglibmisc.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="alglib.ap" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.ndimensional_hess" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="alglib.sparsebuffers" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.ndimensional_grad" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="alglib.ortfac" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>linalg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="alglib.ndimensional_pfunc" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="alglib.ndimensional_func" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>+O7+KZp3bPbda176yOz2W+n74LW//+sn9VG7jzq2yFM=</HashCode>
+      <FileName>alglibinternal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recognition_Cam.Form1">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8QicotAI5iCkbVpWMCSBRoGCAQA+EIgwRDCnEwJxBQA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recognition_Cam.Program">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recognition_Cam.Properties.Resources">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recognition_Cam.Properties.Settings">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
